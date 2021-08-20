@@ -1,0 +1,16 @@
+{
+	"pages": [
+	 
+		"cel/pages/face/face_index",
+		"cel/pages/face/face_select"
+	],
+	"window": {
+		"backgroundColor": "#f1f1f1",
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#C6000E",
+		"navigationBarTitleText": "校庆头像",
+		"navigationBarTextStyle": "white"
+	},
+ 
+	"sitemapLocation": "sitemap.json"
+}

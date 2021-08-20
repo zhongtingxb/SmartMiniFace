@@ -1,0 +1,11 @@
+ /* 主框架 */
+ .main {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 20rpx 20rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+ 
